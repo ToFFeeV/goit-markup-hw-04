@@ -421,6 +421,7 @@ ul {
 .team-box-shadow {
     box-shadow: var(--card-shadow);
     border-radius: 0px 0px 4px 4px;
+    background-color: #fff;
 }
 
 .flex-team {
